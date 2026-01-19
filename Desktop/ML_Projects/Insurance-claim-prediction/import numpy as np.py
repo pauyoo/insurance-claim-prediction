@@ -1,2 +1,2 @@
-import numpy as np
-import pandas as pd
+name = "Paul"
+print (name)
